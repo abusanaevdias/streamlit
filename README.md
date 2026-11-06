@@ -1,3 +1,11 @@
+> **Engineering study fork · abusanaevdias**
+>
+> Original project: [streamlit/streamlit](https://github.com/streamlit/streamlit) · Apache-2.0
+> [Engineering notes](ENGINEERING_NOTES.md): use case, architecture, trade-offs and proposed verification.
+> Upstream authorship and license are retained. Portfolio additions are documentation.
+
+---
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-top:50px"></img>
